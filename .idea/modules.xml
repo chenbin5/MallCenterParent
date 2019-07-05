@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MallCenterActiveModule/MallCenterActiveModule.iml" filepath="$PROJECT_DIR$/MallCenterActiveModule/MallCenterActiveModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MallCenterCartModule/MallCenterCartModule.iml" filepath="$PROJECT_DIR$/MallCenterCartModule/MallCenterCartModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MallCenterCommonModule/MallCenterCommonModule.iml" filepath="$PROJECT_DIR$/MallCenterCommonModule/MallCenterCommonModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MallCenterGoodsModule/MallCenterGoodsModule.iml" filepath="$PROJECT_DIR$/MallCenterGoodsModule/MallCenterGoodsModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MallCenterOrderModule/MallCenterOrderModule.iml" filepath="$PROJECT_DIR$/MallCenterOrderModule/MallCenterOrderModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MallCenterParent.iml" filepath="$PROJECT_DIR$/.idea/MallCenterParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MallCenterPotalModel/MallCenterPotalModel.iml" filepath="$PROJECT_DIR$/MallCenterPotalModel/MallCenterPotalModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MallCenterShiroModule/MallCenterShiroModule.iml" filepath="$PROJECT_DIR$/MallCenterShiroModule/MallCenterShiroModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MallCenterUserModule/MallCenterUserModule.iml" filepath="$PROJECT_DIR$/MallCenterUserModule/MallCenterUserModule.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MallCenterActiveModule" />
+        <module name="MallCenterGoodsModule" />
+        <module name="MallCenterPotalModel" />
+        <module name="MallCenterUserModule" />
+        <module name="MallCenterShiroModule" />
+        <module name="MallCenterCartModule" />
+        <module name="MallCenterCommonModule" />
+        <module name="MallCenterOrderModule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MallCenterActiveModule" target="1.8" />
+      <module name="MallCenterCartModule" target="1.8" />
+      <module name="MallCenterCommonModule" target="1.8" />
+      <module name="MallCenterGoodsModule" target="1.8" />
+      <module name="MallCenterOrderModule" target="1.8" />
+      <module name="MallCenterParent" target="1.8" />
+      <module name="MallCenterPotalModel" target="1.8" />
+      <module name="MallCenterShiroModule" target="1.8" />
+      <module name="MallCenterUser-impl" target="1.8" />
+      <module name="MallCenterUserModule" target="1.8" />
+      <module name="malluserModuleimpl" target="1.8" />
+      <module name="malluserModuleintf" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MallCenterActiveModule" options="-parameters" />
+      <module name="MallCenterCartModule" options="-parameters" />
+      <module name="MallCenterCommonModule" options="-parameters" />
+      <module name="MallCenterGoodsModule" options="-parameters" />
+      <module name="MallCenterOrderModule" options="-parameters" />
+      <module name="MallCenterPotalModel" options="-parameters" />
+      <module name="MallCenterShiroModule" options="-parameters" />
+      <module name="MallCenterUser-impl" options="-parameters" />
+      <module name="MallCenterUserModule" options="-parameters" />
+      <module name="malluserModuleimpl" options="-parameters" />
+      <module name="malluserModuleintf" options="-parameters" />
+    </option>
+  </component>
+</project>
